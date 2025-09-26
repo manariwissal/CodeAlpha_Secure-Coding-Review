@@ -45,7 +45,7 @@ SQLite (included with standard Python)
 
 Clone the repository
 
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/manariwissal/CodeAlpha_Secure-Coding-Review>
 cd audit_task
 
 
